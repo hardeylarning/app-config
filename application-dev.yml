@@ -1,0 +1,4 @@
+# dev here
+spring:
+  application:
+    name: dev-config
