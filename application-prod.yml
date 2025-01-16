@@ -1,0 +1,4 @@
+# prod here
+spring:
+  application:
+    name: prod-config
